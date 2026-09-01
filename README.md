@@ -173,9 +173,9 @@ Me chamo Adryan Javyer Cordeiro Carvalho, tenho 24 anos e sou natural de Minas G
         
 ##
 
-<div align=center
+<div align=center>
 
-<img src="https://raw.githubusercontent.com/AdryanJavyer/adryanjavyer/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adryanjavyer/adryanjavyer/output/snake.svg" alt="Snake animation" />
 
 </div>
 </p>
