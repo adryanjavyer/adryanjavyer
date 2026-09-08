@@ -15,7 +15,7 @@ Me chamo Adryan Javyer Cordeiro Carvalho, tenho 24 anos e sou natural de Minas G
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AdryanJavyer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Github&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/adryanjavyer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Github&logoColor=white"
         />
     </a>
       <a href="https://www.instagram.com/adryanjavyer">
