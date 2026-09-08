@@ -161,13 +161,14 @@ Me chamo Adryan Javyer Cordeiro Carvalho, tenho 24 anos e sou natural de Minas G
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=adryanjayver&theme=tokyonight&locale=pt-br&include_all_commits=true&show_icons=true&show=reviews,prs_merged,prs_authored,issues_authored"
+    src="https://github-stats-extended.vercel.app/api?username=adryanjavyer&theme=tokyonight&locale=pt-br" 
+  />
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;"
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=adryanjavyer&langs_count=4&theme=tokyonight&custom_title=Tecnologias&locale=pt-br"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=adryanjavyer&langs_count=4&theme=tokyonight&custom_title=Tecnologias&locale=pt-br" 
   />
         
 ##
