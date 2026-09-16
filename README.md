@@ -28,7 +28,7 @@ Me chamo Adryan Javyer Cordeiro Carvalho, tenho 24 anos e sou natural de Minas G
         <img
         alt="LinkedIn"
         title="Me siga no LinkedIn"
-        src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-156-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=0A66C2"
+        src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-317-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=0A66C2"
      />
     </a>
 </p>
