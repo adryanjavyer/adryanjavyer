@@ -4,13 +4,13 @@
 
 Me chamo Adryan Javyer Cordeiro Carvalho, tenho 24 anos e sou natural de Minas Gerais. Concluí o ensino médio na EECC, cursei técnico em informática. Atualmente, estou cursando Sistemas de Informações na PUCMG.
 
-<p align="left">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/adryanjavyer?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+<a href="https://github.com/adryanjavyer?tab=repositories">
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas recebidas no GitHub"
+        src="https://img.shields.io/badge/dynamic/json?color=55960c&labelColor=488207&style=for-the-badge&logo=star&logoColor=white&label=ESTRELAS&query=%24.count&url=https%3A%2F%2Fgithub-readme-stats-badges.vercel.app%2Fapi%2Fgithub%2Fstars%3Fuser%3Dadryanjavyer"
+    />
+</a>
     <a href="https://github.com/adryanjavyer">
         <img 
             alt="Seguidores" 
